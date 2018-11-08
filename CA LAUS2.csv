@@ -1,0 +1,59 @@
+Area Type,Area Name,FIPS,Year,Period,Labor Force,Employment,Unemployment,Unemployment Rate,Seasonally Adjusted (Y N),Status
+County,Alameda County,06001,2009,Annual,760900,682900,78000,10.3,N,Final
+County,Alpine County,06003,2009,Annual,450,380,60,14.1,N,Final
+County,Amador County,06005,2009,Annual,17820,15780,2040,11.4,N,Final
+County,Butte County,06007,2009,Annual,103700,91000,12700,12.3,N,Final
+County,Calaveras County,06009,2009,Annual,20330,17560,2760,13.6,N,Final
+County,Colusa County,06011,2009,Annual,11520,9490,2030,17.6,N,Final
+County,Contra Costa County,06013,2009,Annual,524800,472600,52200,10,N,Final
+County,Del Norte County,06015,2009,Annual,11680,10300,1380,11.8,N,Final
+County,El Dorado County,06017,2009,Annual,91700,81700,10000,10.9,N,Final
+County,Fresno County,06019,2009,Annual,434000,370300,63700,14.7,N,Final
+County,Glenn County,06021,2009,Annual,12580,10800,1780,14.1,N,Final
+County,Humboldt County,06023,2009,Annual,60840,54330,6500,10.7,N,Final
+County,Imperial County,06025,2009,Annual,75600,54900,20700,27.4,N,Final
+County,Inyo County,06027,2009,Annual,9390,8550,840,9,N,Final
+County,Kern County,06029,2009,Annual,362700,311700,51000,14.1,N,Final
+County,Kings County,06031,2009,Annual,60500,51900,8600,14.2,N,Final
+County,Lake County,06033,2009,Annual,25370,21570,3810,15,N,Final
+County,Lassen County,06035,2009,Annual,13560,11890,1670,12.3,N,Final
+County,Los Angeles County,06037,2009,Annual,4914700,4345200,569500,11.6,N,Final
+County,Madera County,06039,2009,Annual,66500,57600,8900,13.4,N,Final
+County,Marin County,06041,2009,Annual,132000,122100,9900,7.5,N,Final
+County,Mariposa County,06043,2009,Annual,9400,8430,970,10.3,N,Final
+County,Mendocino County,06045,2009,Annual,43310,38960,4350,10,N,Final
+County,Merced County,06047,2009,Annual,105400,87900,17500,16.6,N,Final
+County,Modoc County,06049,2009,Annual,4040,3560,490,12.1,N,Final
+County,Mono County,06051,2009,Annual,8740,7970,770,8.8,N,Final
+County,Monterey County,06053,2009,Annual,215400,190600,24800,11.5,N,Final
+County,Napa County,06055,2009,Annual,75600,69200,6300,8.4,N,Final
+County,Nevada County,06057,2009,Annual,50380,45200,5170,10.3,N,Final
+County,Orange County,06059,2009,Annual,1589300,1451700,137600,8.7,N,Final
+County,Placer County,06061,2009,Annual,179700,161400,18300,10.2,N,Final
+County,Plumas County,06063,2009,Annual,10020,8470,1540,15.4,N,Final
+County,Riverside County,06065,2009,Annual,915800,795800,120000,13.1,N,Final
+County,Sacramento County,06067,2009,Annual,681100,606100,75000,11,N,Final
+County,San Benito County,06069,2009,Annual,24900,21400,3500,14,N,Final
+County,San Bernardino County,06071,2009,Annual,857700,749100,108600,12.7,N,Final
+County,San Diego County,06073,2009,Annual,1554300,1408300,146000,9.4,N,Final
+County,San Francisco County,06075,2009,Annual,459400,419500,39900,8.7,N,Final
+County,San Joaquin County,06077,2009,Annual,297800,253300,44500,14.9,N,Final
+County,San Luis Obispo County,06079,2009,Annual,136400,124400,12000,8.8,N,Final
+County,San Mateo County,06081,2009,Annual,374200,343500,30700,8.2,N,Final
+County,Santa Barbara County,06083,2009,Annual,220000,201900,18100,8.2,N,Final
+County,Santa Clara County,06085,2009,Annual,875000,782400,92600,10.6,N,Final
+County,Santa Cruz County,06087,2009,Annual,147700,131300,16400,11.1,N,Final
+County,Shasta County,06089,2009,Annual,84000,71900,12000,14.3,N,Final
+County,Sierra County,06091,2009,Annual,1600,1360,240,14.9,N,Final
+County,Siskiyou County,06093,2009,Annual,19630,16830,2800,14.2,N,Final
+County,Solano County,06095,2009,Annual,214500,192200,22300,10.4,N,Final
+County,Sonoma County,06097,2009,Annual,256500,232400,24100,9.4,N,Final
+County,Stanislaus County,06099,2009,Annual,234500,198100,36400,15.5,N,Final
+County,Sutter County,06101,2009,Annual,41900,35000,6900,16.5,N,Final
+County,Tehama County,06103,2009,Annual,25340,21890,3460,13.6,N,Final
+County,Trinity County,06105,2009,Annual,4990,4150,840,16.8,N,Final
+County,Tulare County,06107,2009,Annual,203200,173000,30200,14.9,N,Final
+County,Tuolumne County,06109,2009,Annual,25720,22590,3130,12.2,N,Final
+County,Ventura County,06111,2009,Annual,430300,388800,41500,9.6,N,Final
+County,Yolo County,06113,2009,Annual,98700,87900,10900,11,N,Final
+County,Yuba County,06115,2009,Annual,28300,23600,4800,16.8,N,Final
